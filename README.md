@@ -1,8 +1,5 @@
 # CHURN-ANALYSIS
-Subject: Key Findings on Customer Retention Analysis
-Dear Janet
-I hope this message finds you well. I have completed the analysis on the customer retention data and would like to share my findings. Below are the key insights, potential action points, and recommendations based on my analysis.
-1.Overview of the Analysis:
+# 1.Overview of the Analysis:
 I have analysed customer behaviour to understand key trends affecting retention rates. The key metrics analysed include customer churn, demographic and service trends in churn
 # Key Findings:
 # 1) Demographics:
